@@ -10,12 +10,12 @@
 
 ### What I'm shipping
 
-- **[War Room](https://github.com/pythonluvr/war-room)** — Local-first Discord-style cockpit for solo operators running many clients and many AI agents at once. Plug in Claude Code, Codex, Gemini, OpenAI, OpenRouter, Ollama, anything OpenAI-Chat-Completions-compatible. One screen for the whole AI-ops stack. AGPL-3.0.
-- **[OpenWar](https://github.com/pythonluvr/openwar)** — Discipline layer for CLI agents. Runs Claude Code, Codex, and Gemini CLI under one phase-gated runtime with deterministic detectors, replayable traces, persistent memory, and a chat REPL. MIT.
-- **[Squire](https://github.com/pythonluvr/squire)** — General-purpose runtime for spawning CLI AI agents as subprocesses with structured event streaming, MCP tool forwarding, and Claude Code permission auto-setup. MIT.
-- **[x-preflight](https://github.com/pythonluvr/x-preflight)** — Chrome extension that scores X drafts against the documented X algorithm signal weights before you post. No API key required.
+- **[War Room](https://github.com/pythonluvr/war-room)**: Local-first Discord-style cockpit for solo operators running many clients and many AI agents at once. Plug in any OpenAI-Chat-Completions-compatible runtime. AGPL-3.0.
+- **[OpenWar](https://github.com/pythonluvr/openwar)**: Discipline layer for CLI agents. Runs Claude Code, Codex, and Gemini CLI under one phase-gated runtime with deterministic detectors, replayable traces, and persistent memory. MIT.
+- **[api-discover](https://github.com/pythonluvr/api-discover)**: Point at any website, get a typed API client plus an upfront verdict on whether HTTP-only replay will work (Turnstile, CSRF, WebSocket-delivered results, etc.). MIT.
+- **[hyperframes-generator](https://github.com/pythonluvr/hyperframes-generator)**: Reskin HyperFrames HTML video compositions with Claude. Apply a style DNA, preserve the API contract, batch over hundreds of variants. MIT.
 
-More internal tooling across video, motion, and operator infrastructure lives at Catalyst. When something earns its keep daily, it eventually ships here.
+More tooling across agent ops, video, and motion lives in [my repos](https://github.com/pythonluvr?tab=repositories). When something earns its keep daily, it eventually ships here.
 
 ### How I work
 
