@@ -3,13 +3,14 @@
 <p align="center"><em>I build tools for people running AI agents all day.</em></p>
 
 <p align="center">
-  Independent freelancer. Founder of <strong>Catalyst Studios LLC</strong>. I work across CTV ads, creative production, and AI-operator tooling. The stuff I open-source comes straight out of my own daily workflow.
+  Independent freelancer. I work across CTV ads, creative production, and AI-operator tooling. The stuff I open-source comes straight out of my own daily workflow.
 </p>
 
 ---
 
 ### What I'm shipping
 
+- **★ [Slash](https://github.com/pythonluvr/slash)** (new): An AI-native, local-first web browser. The assistant can search, read pages, and act on the web for you, running on your own machine with your key or a free local CLI. No account, no telemetry, ads and trackers blocked, passwords and keys sealed with the OS keystore. Open source, so the privacy claims are checkable, not promises. MIT.
 - **[War Room](https://github.com/pythonluvr/war-room)**: Local-first Discord-style cockpit for solo operators running many clients and many AI agents at once. Plug in any OpenAI-Chat-Completions-compatible runtime. AGPL-3.0.
 - **[OpenWar](https://github.com/pythonluvr/openwar)**: Discipline layer for CLI agents. Runs Claude Code, Codex, and Gemini CLI under one phase-gated runtime with deterministic detectors, replayable traces, and persistent memory. MIT.
 - **[Squire](https://github.com/pythonluvr/squire)**: General-purpose runtime for spawning CLI AI agents as subprocesses with structured event streaming, MCP tool forwarding, and Claude Code permission auto-setup. MIT.
