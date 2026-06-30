@@ -18,7 +18,7 @@
 <h2 align="center">⊳ WHO AM I?</h2>
 
 <div align="center">
-  <img src="assets/confidant-card.png" alt="EJ Redd, The Fool" width="640" />
+  <img src="assets/confidant-card.gif" alt="EJ Redd, The Fool" width="560" />
 </div>
 
 <br>
