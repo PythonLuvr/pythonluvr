@@ -24,21 +24,10 @@
 <br>
 
 <!-- ===================== CONTACT ===================== -->
-<h2 align="center">⊳ CONTACT THE THIEF</h2>
-
 <div align="center">
   <a href="https://x.com/PythonLuvr"><img src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=e60012" alt="x" /></a>
   <a href="https://www.linkedin.com/in/emmanuelredd"><img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=2f6bff" alt="linkedin" /></a>
   <a href="mailto:ejredd2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffce00" alt="email" /></a>
-</div>
-
-<br>
-
-<!-- ===================== ARSENAL ===================== -->
-<h2 align="center">⊳ ARSENAL</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,electron&theme=dark" alt="skills" />
 </div>
 
 <br>
